@@ -33,3 +33,5 @@ F9：首选旁边显示全拼或全码，方便练习
 
 架构按编译机决定：只在x64 下打包，arm装不了。全屏游戏、系统安全桌面不保证可用。个别程序在 Wayland 下的候选条行为跟桌面环境有关。
 
+![候选条](https://github.com/RucLinux/damang-ime/blob/main/0bf6c30c-4427-4ee2-ae62-ad042f1d3ad1.png)
+![候选条](https://github.com/RucLinux/damang-ime/blob/main/1a49673e-7e1d-43dc-853d-eb5eca47f466.png)
